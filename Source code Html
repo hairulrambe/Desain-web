@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+	<title> CSS Website Layout</title>		<link rel="stylesheet" type="text/css" href="style.css">
+
+		</head>
+
+		<body>
+
+			<div class="fixed-nav">
+
+					<div class="header">
+
+								<h1> Header </h1>
+
+										</div>
+
+		<div class="topnav">
+
+					<a href="#"> link </a>
+
+								<a href="#"> link </a>
+
+											<a href="#"> link </a>
+
+													</div>
+
+														</div>
+
+																<div>
+
+																			<img src="html.jpg" alt="" class="banner">
+
+																					</div>
+
+																							<div class="row">
+
+																									<div class="colum">
+
+																												<h1> left bar </h1>
+
+																															<p>
+
+																																			Web desain adalah sebuah bentuk grafis dalam membuat suatu halaman web. Banyak orang yang masih belum tahu menahu tentang pengertian web desain. Bahkan beberapa diantara mereka masih melihat web desain hanya sebuah bentuk online jurnalisme saja. Seiring berkembangnya teknologi, internet memiliki nilai-nilai penting dari sebuah media yang oleh karena itu, bermunculan website tiap detiknya di seluruh dunia.
+
+																																						</p>
+
+																																								</div>
+
+																																										<div class="colum">
+
+																																													<h1> Content </h1>
+
+																																																<p>
+
+																																																				Elemen-elemen seperti teks, forms,images (GIFs, JPEGs, Portable Network Graphics) dan video dapat diletakkan di dalam halaman menggunakan tag-tag HTML/XHTML/XML. Browser terkadang juga memerlukan Plug-ins seperti Adobe Flash, QuickTime, Java, dan sebagainya untuk menampilkan beberapa media yang diletakkan di dalam halaman web menggunakan tag-tag HTML/XHTML.
+
+																																																							</p>
+
+																																																									</div>
+
+		<div class="colum">
+
+					<h1> Right Bar </h1>
+
+								<p>
+
+												Halaman web dan situs web dapat berupa halaman statis, atau dapat diprogram secara dinamis sehingga menghasilkan halaman web dengan konten atau tampilan visual yang diinginkan, tergantung pada berbagai faktor, seperti masukan dari pengguna akhir, masukan dari Webmaster, atau perubahan dalam lingkungan komputasi (seperti situs yang terkait dengan database yang telah diubah).
+
+															</p> 
+
+																	</div>
+
+		</div>
+
+		<div class="row">
+
+				<div class="colum2">
+
+							<h1> left bar </h1>
+
+										<p>Web desain adalah sebuah bentuk grafis dalam membuat suatu halaman web. Banyak orang yang masih belum tahu menahu tentang pengertian web desain. Bahkan beberapa diantara mereka masih melihat web desain hanya sebuah bentuk online jurnalisme saja. Seiring berkembangnya teknologi, internet memiliki nilai-nilai penting dari sebuah media yang oleh karena itu, bermunculan website tiap detiknya di seluruh dunia.
+
+			</p>
+
+		</div>
+
+		<div class="colum">
+
+			<h1> Content </h1>
+
+			<p>
+
+				Elemen-elemen seperti teks, forms, images (GIFs, JPEGs, Portable Network Graphics) dan video dapat diletakkan di dalam halaman menggunakan tag-tag HTML/XHTML/XML. Browser terkadang juga memerlukan Plug-ins seperti Adobe Flash, QuickTime, Java, dan sebagainya untuk menampilkan beberapa media yang diletakkan di dalam halaman web menggunakan tag-tag HTML/XHTML.
+
+			</p>
+
+		</div>
+
+		<div class="colum">
+
+			<h1> Right Bar </h1>
+
+			<p>Halaman web dan situs web dapat berupa halaman statis, atau dapat diprogram secara dinamis sehingga menghasilkan halaman web dengan konten atau tampilan visual yang diinginkan, tergantung pada berbagai faktor, seperti masukan dari pengguna akhir, masukan dari Webmaster, atau perubahan dalam lingkungan komputasi (seperti situs yang terkait dengan database yang telah diubah).
+
+			</p> 
+
+		</div>
+
+		</div>
+
+		<div class="footer">
+
+			<p>Copyright @hairulrambe286.com edited By Hairul Rambe</p>
+
+		</div>
+
+</body>
+
+</html>
